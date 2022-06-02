@@ -1,0 +1,7 @@
+.github/scripts/list-dirs
+.github/workflows/code-scanning.yml
+packages/babel-cli/src/babel/dir.ts
+packages/babel-cli/src/babel/util.ts
+packages/babel-cli/babel-external-helpers.ts
+packages/babel-plugin-syntax-flow/index.ts
+packages/babel-helper-fixtures/index.ts
